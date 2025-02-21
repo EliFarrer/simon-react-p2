@@ -1,6 +1,6 @@
 # Simon
 
-[My Notes](notes.md)
+[my notes](notes.md)
 
 In 1978 Milton-Bradley, now Hasbro, released an electronic game named Simon. It was cutting edge at the time since there were so few electronic games, and all the cool kids had one.
 
